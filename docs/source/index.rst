@@ -32,8 +32,6 @@ Editor: **Davide Schiavone**
    instruction_fetch
    load_store_unit
    register_file
-   apu
-   fpu
    sleep
    corev_hw_loop
    control_status_registers
